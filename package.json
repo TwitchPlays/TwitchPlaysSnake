@@ -1,0 +1,26 @@
+{
+  "name": "twitchplayssnake",
+  "version": "1.0.0",
+  "description": "Twitch chat plays snake",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TwitchPlays/TwitchPlaysSnake.git"
+  },
+  "keywords": [
+    "snake"
+  ],
+  "author": "Matej Kalc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TwitchPlays/TwitchPlaysSnake/issues"
+  },
+  "homepage": "https://github.com/TwitchPlays/TwitchPlaysSnake#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "tmi.js": "^1.8.5"
+  }
+}
